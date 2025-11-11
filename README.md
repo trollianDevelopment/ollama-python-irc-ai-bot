@@ -5,6 +5,8 @@ AG note: ale seems to have just kind of dropped off the face of the earth, unfor
 Wherever you are, ale, I hope you're doing 8etter. 
 
 
+------------------------------------------------------------------------------------------
+
 Hi over there! this is ale. and i'm going to guido you in this tutorial. here we are going to learn how to make an irc bot powered with the open source project "ollama".
 
 ### Why to do this?

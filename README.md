@@ -1,5 +1,10 @@
 # Ollama python irc local ai bot
 
+AG note: ale seems to have just kind of dropped off the face of the earth, unfortun8ly, so I decided to fork this in case her GitHu8 account ever goes down. I aim to modify this as minimally as possi8le, if I modify it at all 8eyond this `readme`.
+
+Wherever you are, ale, I hope you're doing 8etter. 
+
+
 Hi over there! this is ale. and i'm going to guido you in this tutorial. here we are going to learn how to make an irc bot powered with the open source project "ollama".
 
 ### Why to do this?
